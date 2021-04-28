@@ -18,7 +18,7 @@ git clone https://github.com/imvijayps/AndroDistro.git
 cd AndroDistro
 ```
 ```
-bash distro.py
+python distro.py
 ```
 
 ### Then it will install the particular tool in Termux.
